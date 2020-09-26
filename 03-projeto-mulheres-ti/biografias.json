@@ -29,14 +29,38 @@
             "nome": "Mary Kennth Keller",
             "description": "Natural de Cleveland, Ohio, Mary Keller foi a primeira mulher a ter um doutorado em ciência da computação nos Estados Unidos, em 1965. Graduou-se em matemática e fez mestrado em matemática e física nos anos 40. Seu doutorado pela Universidade de Wisconsin abordou a construção de algoritmos que faziam diferenciação analítica na expressão algébrica, escrito em CDC FORTRAN 63. Na época de sua graduação, a Universidade de Dartmouth só permitia homens, mas quebrou a regra para que ela pudesse trabalhar no centro de computação. Mais tarde, fundou o Departamento de Ciência da Computação na Clarke College, no estado de Iowa, onde lecionou por 20 anos.",
             "url": "https://en.wikipedia.org/wiki/Mary_Kenneth_Keller"
-        
         },
         {
             "id": "5efd4cbf9dfe94a55c24ad5f",
             "nome": "Hedy Lamarr ",
             "description": "Foi uma atriz e inventora austríaca radicada nos Estados Unidos. A sua mais significativa contribuição tecnológica deu-se durante a Segunda Guerra Mundial, tendo sido a sua co-invenção, juntamente com o compositor George Antheil, de um sistema de comunicações para as Forças Armadas dos Estados Unidos que serviu de base para a atual telefonia celular.",
             "url": "https://en.wikipedia.org/wiki/Hedy_Lamarr"
-
+        },
+        {
+            "id": "AbCdEF123411",
+            "nome": "Joan Clarke",
+            "description": "Foi uma criptoanalista e numismata inglesa, mais conhecida pelo seu trabalho como decodificadora de mensagens nazistas durante a II Guerra Mundial que possibilitou salvar inúmeras vidas. Também foi amiga, confidente e ex-noiva de Alan Turing.",
+            "url": "https://en.wikipedia.org/wiki/Joan_Clarke"
+        },
+        {
+            "id": "AbCdEF123412",
+            "nome": "Katherine Coleman Goble Jonhnson",
+            "description": "Cientista formada em física e matemática, Katherine Johnson fez história na corrida espacial americana: calculou a trajetória para o Projeto Mercúrio (primeiro projeto tripulado da NASA) e para o voo da Apollo 11 (que levou o homem à Lua). Afro-americana, veio de família humilde e demonstrou desde cedo sua aptidão e precisão para os cálculos. Contribuiu imensamente para a agência em uma época em que os EUA ainda institucionalizavam a segregação racial. Recebeu a Medalha Presidencial da Liberdade em 2015, maior honra que o governo dos EUA concede a civis. Sua história é contada no filme ‘Estrelas Além do Tempo",
+            "url": "https://en.wikipedia.org/wiki/Katherine_Coleman_Goble_Jonhson"
+        },
+        {
+            "id": "AbCdEF123413",
+            "nome": "Mary Winston Jackson",
+            "description": "Mary Winston Jackson nasceu nos EUA e formou-se no Hampton Institute em 1942, onde estudou matemática e física. Foi autora e co-autora de diversos relatórios de pesquisa e destacou-se na NASA, onde começou a trabalhar em 1951. Para poder continuar seus experimentos na Insitituição, teve que cursar enegenharia, sendo a primeira mulher negra engenheira da Nasa. Pesquisou principalmente a camada limite de ar em torno de aviões e fez experimentos com túneis de vento. Sua história é contada no filme 'Estrelas Além do Tempo'",
+            "url": "https://en.wikipedia.org/wiki/Mary_Winston_Jackson"
+        },
+        {
+            "id": "AbCdEF123414",
+            "nome": "Karen Spärck",
+            "description": "Karen Spärck Jones criou o conceito de Frequência Inversa do Documento (IDF na sigla em inglês). O IDF é usado na maioria dos mecanismos de busca atuais, geralmente utilizando a frequência tf-idf, e foi introduzido em artigo de 1972. Karen nasceu na Inglaterra e lecionou no Laboratório de Computação de Cambridge de 1974 a 2002, quando se aposentou, mas continuou trabalhando lá até pouco antes de sua morte, em 2007. Em sua vida, recebeu diversos prêmios e reconhecimentos por suas contribuições, como o ACL Lifetime Achievement Award, em 2004. Também foi vice-presidente da Academia Britânica.",
+            "url": "https://en.wikipedia.org/wiki/Karen_Sparck"
         }
+    ]   
 
-    ]
+        
+

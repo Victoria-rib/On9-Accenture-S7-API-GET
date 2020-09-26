@@ -1,19 +1,24 @@
 {
-  "name": "projeto-mulheres",
+  "name": "On9-Accenture-S7-API-GET",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-    "start": "nodemon server.js"
+    "start": "server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/daniclericuzi/On9-Accenture-S7-API-GET.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/daniclericuzi/On9-Accenture-S7-API-GET/issues"
+  },
+  "homepage": "https://github.com/daniclericuzi/On9-Accenture-S7-API-GET#readme",
   "dependencies": {
-    "express": "^4.17.1",
-    "nodemon": "^2.0.4",
-    "path": "^0.12.7",
-    "uuidv4": "^6.2.3"
+    "express": "^4.17.1"
   }
 }
